@@ -1,4 +1,4 @@
-# TroubleShootersiitm
+# TroubleShootersIitm
 
 <!-- PROJECT LOGO -->
 <br />
